@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm an aspiring full-stack web developer currently
 - Responsive web design
 - Git & GitHub workflows
 - DOM manipulation
+- VS Code
+- Figma
 
 ---
 
