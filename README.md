@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Latika!
 
-Welcome to my GitHub profile! I'm an aspiring full-stack web developer currently enrolled in the **TripleTen Web Development Bootcamp**. I'm passionate about learning to build user-friendly, accessible, and responsive websites.
+Welcome to my GitHub profile! I'm an aspiring full-stack web developer from NYC, I'am currently enrolled in the **TripleTen Web Development Bootcamp**. I'm passionate about learning to build user-friendly, accessible, and responsive websites.
 
 📚 I'm currently wrapping up **Sprint 4** of the program and excited to keep growing my skills with each new project!
 
